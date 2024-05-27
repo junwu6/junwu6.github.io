@@ -16,3 +16,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+
+1. 
+1. [AISTATS-2024] BOBA: Byzantine-Robust Federated Learning with Label Skewness. [PDF]
+Wenxuan Bao, **Jun Wu**, Jingrui He
+1. [NeurIPS-2023] Graph-Structured Gaussian Processes for Transferable Graph Learning.
+**Jun Wu**, Elizabeth Ainsworth, Andrew Leakey, Haixun Wang, Jingrui He
