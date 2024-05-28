@@ -17,5 +17,5 @@ author_profile: true
 {% endfor %}
 -->
 
-1. [AISTATS-2024] Wenxuan Bao, Jun Wu, Jingrui He. "**BOBA: Byzantine-Robust Federated Learning with Label Skewness**." In International Conference on Artificial Intelligence and Statistics, 2024.
-1. [NeurIPS-2023] Jun Wu, Elizabeth Ainsworth, Andrew Leakey, Haixun Wang, Jingrui He. "**Graph-Structured Gaussian Processes for Transferable Graph Learning**." In Thirty-seventh Conference on Neural Information Processing Systems, 2023.
+1. Wenxuan Bao, Jun Wu, Jingrui He. "**BOBA: Byzantine-Robust Federated Learning with Label Skewness**." In International Conference on Artificial Intelligence and Statistics, 2024.
+1. Jun Wu, Elizabeth Ainsworth, Andrew Leakey, Haixun Wang, Jingrui He. "**Graph-Structured Gaussian Processes for Transferable Graph Learning**." In Thirty-seventh Conference on Neural Information Processing Systems, 2023.
