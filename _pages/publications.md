@@ -17,7 +17,9 @@ author_profile: true
 {% endfor %}
 -->
 
-1. Wenxuan Bao, Jun Wu, Jingrui He. "**BOBA: Byzantine-Robust Federated Learning with Label Skewness**." 27th International Conference on Artificial Intelligence and Statistics (AISTATS-2024).
+1. **BOBA: Byzantine-Robust Federated Learning with Label Skewness**  
+Wenxuan Bao, Jun Wu, Jingrui He  
+27th International Conference on Artificial Intelligence and Statistics (AISTATS-2024).
 1. Jun Wu, Elizabeth Ainsworth, Andrew Leakey, Haixun Wang, Jingrui He. "**Graph-Structured Gaussian Processes for Transferable Graph Learning**." Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS-2023).
 1. Jun Wu, Wenxuan Bao, Elizabeth Ainsworth, Jingrui He. "**Personalized Federated Learning with Parameter Propagation**." 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2023).
 1. Wenxuan Bao, Haohan Wang, Jun Wu, Jingrui He. "**Optimizing the Collaboration Structure in Cross-silo Federated Learning**." Fortieth International Conference on Machine Learning (ICML-2023).
