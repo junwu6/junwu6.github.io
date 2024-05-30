@@ -46,7 +46,7 @@ Jun Wu, Jingrui He
 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2022)
 
 1. **A Unified Meta-Learning Framework for Dynamic Transfer Learning**  
-Jun Wu, Jingrui He
+Jun Wu, Jingrui He  
 Thirty-First International Joint Conference on Artificial Intelligence (IJCAI-2022)
 
 1. **Indirect Invisible Poisoning Attacks on Domain Adaptation**  
