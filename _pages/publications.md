@@ -36,3 +36,31 @@ Fortieth International Conference on Machine Learning (ICML-2023)
 1. **Non-IID Transfer Learning on Graphs**  
 Jun Wu, Jingrui He, Elizabeth Ainsworth  
 Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-2023)
+
+1. **Distribution-Informed Neural Networks for Domain Adaptation Regression**  
+Jun Wu, Jingrui He, Sheng Wang, Kaiyu Guan, Elizabeth Ainsworth  
+36th Conference on Neural Information Processing Systems (NeurIPS-2022)
+
+1. **Domain Adaption with Dynamic Open-Set Targets**  
+Jun Wu, Jingrui He  
+28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2022)
+
+1. **A Unified Meta-Learning Framework for Dynamic Transfer Learning**  
+Jun Wu, Jingrui He
+Thirty-First International Joint Conference on Artificial Intelligence (IJCAI-2022)
+
+1. **Indirect Invisible Poisoning Attacks on Domain Adaptation**  
+Jun Wu, Jingrui He  
+27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2021)
+
+1. **DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification**  
+Jun Wu, Jingrui He, and Jiejun Xu  
+25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2019)
+
+1. **ImVerde: Vertex-Diminished Random Walk for Learning Imbalanced Network Representation**  
+Jun Wu, Jingrui He, and Yongming Liu  
+2018 IEEE International Conference on Big Data (IEEE BigData-2018)
+
+
+
+
