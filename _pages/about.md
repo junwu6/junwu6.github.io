@@ -11,7 +11,6 @@ redirect_from:
 
 **To prospective students:** I am seeking self-motivated students to join my research group in Spring 2024 or Fall 2024. If you are interested in working with me, please email your CV, transcript, and a brief overview of your research experience.
 
-Research Scope
 ======
 
 My current research includes, but is not limited to, the following topics:
