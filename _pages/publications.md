@@ -17,6 +17,10 @@ author_profile: true
 {% endfor %}
 -->
 
+1. **Distributional Network of Networks for Modeling Data Heterogeneity**  
+Jun Wu, Jingrui He, Hanghang Tong  
+30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD-2024)  
+
 1. **BOBA: Byzantine-Robust Federated Learning with Label Skewness**  
 Wenxuan Bao, Jun Wu, Jingrui He  
 27th International Conference on Artificial Intelligence and Statistics (AISTATS-2024).
@@ -49,17 +53,17 @@ Jun Wu, Jingrui He
 Jun Wu, Jingrui He  
 Thirty-First International Joint Conference on Artificial Intelligence (IJCAI-2022)
 
+1. **Adversarial Robustness through Bias Variance Decomposition: A New Perspective for Federated Learning**  
+Yao Zhou*, Jun Wu*, Haixun Wang, Jingrui He (*Equal Contribution)  
+31st ACM International Conference on Information and Knowledge Management (CIKM-2022)  
+
 1. **Indirect Invisible Poisoning Attacks on Domain Adaptation**  
 Jun Wu, Jingrui He  
-27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2021)
+27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2021)  
 
 1. **DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification**  
 Jun Wu, Jingrui He, and Jiejun Xu  
 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2019)
-
-1. **ImVerde: Vertex-Diminished Random Walk for Learning Imbalanced Network Representation**  
-Jun Wu, Jingrui He, and Yongming Liu  
-2018 IEEE International Conference on Big Data (IEEE BigData-2018)
 
 
 
