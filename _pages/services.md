@@ -5,12 +5,12 @@ permalink: /services/
 author_profile: true
 ---
 
-## Senior Program Committee Members
+**Senior Program Committee Members**
 
 - 2025: AAAI
 - 2024: AAAI
 
-## Program Committee Members
+**Program Committee Members**
 
 - 2024: NeurIPS, ICML, ICLR, KDD, IJCAI, AAAI, CIKM, WebConf, WSDM, SDM, PAKDD
 - 2023: NeurIPS, ICML, KDD, IJCAI, AAAI, CIKM, WebConf, WSDM, SDM, LoG, BigData
@@ -19,7 +19,7 @@ author_profile: true
 - 2020: IJCAI
 - 2019: IJCAI
 
-## Journal Reviewer
+**Journal Reviewer**
 
 - Data Mining and Knowledge Discovery
 - Transactions on Knowledge Discovery from Data
