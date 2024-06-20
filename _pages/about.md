@@ -14,7 +14,7 @@ redirect_from:
 **Research**
 I am particularly interested in exploring data heterogeneity and ensuring model trustworthiness in machine learning, artificial intelligence, and data mining. Currently, my research includes, but is not limited to, the following topics:
 * Heterogeneous machine learning, e.g., transfer learning, domain adaptation, out-of-distribution generalization, etc.
-* Trustworthy machine learning, e.g., adversarial robustness, privacy, fairness, etc.
+* Trustworthy machine learning, e.g., adversarial robustness, privacy, fairness, transparency, etc.
 * Graph learning, e.g., network of networks, heterogeneous information network, graphon modeling, etc.
 * AI for scientific discovery, e.g., plant phenotyping, scRNA-seq integration, privacy policy analysis, etc.
 
