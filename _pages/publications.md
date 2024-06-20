@@ -19,8 +19,7 @@ author_profile: true
 
 1. **Distributional Network of Networks for Modeling Data Heterogeneity**  
 Jun Wu, Jingrui He, Hanghang Tong  
-30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD-2024)  
-
+30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD-2024)    
 1. **BOBA: Byzantine-Robust Federated Learning with Label Skewness**  
 Wenxuan Bao, Jun Wu, Jingrui He  
 27th International Conference on Artificial Intelligence and Statistics (AISTATS-2024).
