@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Assistant Professor in the [Department of Computer Science and Engineering](https://engineering.msu.edu/about/departments/cse) at the [Michigan State University](https://msu.edu/) (MSU). Before joining MSU, I received my Ph.D. degree in Computer Science at the University of Illinois Urbana-Champaign. I have a broad research interest in trustworthy machine learning, transfer learning/domain adaptation, and graph learning, with applications in agriculture, bioinformatics, e-commerce, and legal analytics.
 
-**To prospective students:** I am seeking self-motivated students to join my research group in Fall 2025. If you are interested in working with me, please drop me an email (junwutl[at]gmail[dot]com) with your CV, transcript, and a brief overview of your research experience. Find more information [here](https://junwu6.github.io/recruitment/).
+**To prospective students:** I am seeking self-motivated students to join my research group in Fall 2025. If you are interested in working with me, please drop me an email with your CV, transcript, and a brief overview of your research experience. Find more information [here](https://junwu6.github.io/recruitment/).
 
 **Research**
 
