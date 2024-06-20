@@ -17,6 +17,7 @@ Research Scope
 My current research includes, but is not limited to, the following topics:
 * Heterogeneous machine learning, e.g., transfer learning, domain adaptation, out-of-distribution generalization, etc.
 * Trustworthy machine learning, e.g., adversarial robustness, privacy, fairness, etc.
+* Graph learning, e.g., network of networks, heterogeneous graphs, graphon modeling, etc.
 * AI for scientific discovery, e.g., plant phenotyping, scRNA-seq integration, privacy policy analysis, etc.
 
 
