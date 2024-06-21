@@ -53,7 +53,7 @@ Jun Wu, Jingrui He
 Thirty-First International Joint Conference on Artificial Intelligence (IJCAI-2022)
 
 1. **Adversarial Robustness through Bias Variance Decomposition: A New Perspective for Federated Learning**  
-Yao Zhou\*, Jun Wu, Haixun Wang, Jingrui He 
+Yao Zhou\*, Jun Wu\*, Haixun Wang, Jingrui He 
 31st ACM International Conference on Information and Knowledge Management (CIKM-2022)  
 
 1. **Indirect Invisible Poisoning Attacks on Domain Adaptation**  
