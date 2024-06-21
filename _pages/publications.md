@@ -19,12 +19,13 @@ author_profile: true
 
 1. **Distributional Network of Networks for Modeling Data Heterogeneity**  
 Jun Wu, Jingrui He, Hanghang Tong  
-30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD-2024)   
-1. **BOBA: Byzantine-Robust Federated Learning with Label Skewness**  
-Wenxuan Bao, Jun Wu, Jingrui He  
-27th International Conference on Artificial Intelligence and Statistics (AISTATS-2024).
+30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD-2024)  
 
-1. **Graph-Structured Gaussian Processes for Transferable Graph Learning**  
+1. **BOBA: Byzantine-Robust Federated Learning with Label Skewness** [[PDF](https://proceedings.mlr.press/v238/bao24a.html)]  
+Wenxuan Bao, Jun Wu, Jingrui He  
+27th International Conference on Artificial Intelligence and Statistics (AISTATS-2024)
+
+1. **Graph-Structured Gaussian Processes for Transferable Graph Learning** [[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/9f7f2f57d8eaf44b2f09020f64ff6d96-Paper-Conference.pdf)]  
 Jun Wu, Elizabeth Ainsworth, Andrew Leakey, Haixun Wang, Jingrui He  
 Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS-2023)
 
