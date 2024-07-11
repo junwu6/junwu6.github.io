@@ -12,7 +12,8 @@ author_profile: true
 
 **Program Committee Members**
 
-- 2024: NeurIPS, ICML, ICLR, KDD, IJCAI, CIKM, WebConf, WSDM, SDM, BigData, PAKDD
+- 2025: KDD, WSDM
+- 2024: NeurIPS, ICML, ICLR, KDD, IJCAI, CIKM, WebConf, WSDM, SDM, BigData, PAKDD, DSAA
 - 2023: NeurIPS, ICML, KDD, IJCAI, AAAI, CIKM, WebConf, WSDM, SDM, LoG, BigData
 - 2022: KDD, IJCAI, AAAI, CIKM, WSDM, SDM, IAAI
 - 2021: IJCAI, CIKM, IAAI
