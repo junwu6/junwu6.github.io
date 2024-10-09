@@ -17,6 +17,12 @@ author_profile: true
 {% endfor %}
 -->
 
+Preprints
+
+1. **Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation**
+
+Selected Conferences and Journals
+
 1. **Distributional Network of Networks for Modeling Data Heterogeneity**  
 Jun Wu, Jingrui He, Hanghang Tong  
 30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD-2024)  
