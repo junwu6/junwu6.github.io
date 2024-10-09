@@ -15,11 +15,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
--->
-
-Preprints
-
-1. **Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation**
+-->   
 
 Selected Conferences and Journals
 
