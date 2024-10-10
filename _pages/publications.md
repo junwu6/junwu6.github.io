@@ -19,7 +19,7 @@ author_profile: true
 
 ## Preprints
 
-1. Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation  
+1. **Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation**    
 Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, Fatemeh Vafaee
 
 ## Selected Conferences and Journals
