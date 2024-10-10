@@ -17,7 +17,12 @@ author_profile: true
 {% endfor %}
 -->   
 
-Selected Conferences and Journals
+## Preprints
+
+1. Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation  
+Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, Fatemeh Vafaee
+
+## Selected Conferences and Journals
 
 1. **Distributional Network of Networks for Modeling Data Heterogeneity**  [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671994)]  
 Jun Wu, Jingrui He, Hanghang Tong  
