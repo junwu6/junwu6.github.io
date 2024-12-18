@@ -22,6 +22,7 @@ author_profile: true
 
 **Journal Reviewer**
 
+- Transactions on Intelligent Systems and Technology
 - Data Mining and Knowledge Discovery
 - Transactions on Knowledge Discovery from Data
 - International Journal of Computer Vision
