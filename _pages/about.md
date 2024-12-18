@@ -20,7 +20,9 @@ I am particularly interested in exploring data heterogeneity and ensuring model 
 * AI for scientific discovery, e.g., plant phenotyping, scRNA-seq integration, privacy policy analysis, etc.
 
 
-
+<!--
 *News*
 
 * I will join MSU as a tenure-track assistant professor in August 2024.
+
+-->
