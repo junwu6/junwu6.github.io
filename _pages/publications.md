@@ -19,10 +19,17 @@ author_profile: true
 
 ## Preprints
 
+1. **Trustworthy Transfer Learning: A Survey**  
+Jun Wu, Jingrui He
+
 1. **Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation**    
 Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, Fatemeh Vafaee
 
 ## Selected Conferences and Journals
+
+1. **Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem**  
+Katherine Tieu, Dongqi Fu, Jun Wu, Jingrui He  
+28th International Conference on Artificial Intelligence and Statistics (AISTATS-2025)
 
 1. **Distributional Network of Networks for Modeling Data Heterogeneity**  [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671994)]  
 Jun Wu, Jingrui He, Hanghang Tong  
