@@ -29,6 +29,7 @@ Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, Fatemeh Vafaee
 
 ### Heterogeneous Machine Learning
 
+####
 1. **Distributional Network of Networks for Modeling Data Heterogeneity**  [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671994)]  
 Jun Wu, Jingrui He, Hanghang Tong  
 30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD-2024)  
