@@ -12,7 +12,7 @@ author_profile: true
 
 **Program Committee Members**
 
-- 2025: NeurIPS, ICML, ICLR, KDD, IJCAI, AISTATS, WebConf, WSDM
+- 2025: NeurIPS, ICML, ICLR, KDD, IJCAI, AISTATS, CIKM, WebConf, WSDM
 - 2024: NeurIPS, ICML, ICLR, KDD, IJCAI, CIKM, WebConf, WSDM, SDM, BigData, PAKDD, DSAA
 - 2023: NeurIPS, ICML, KDD, IJCAI, AAAI, CIKM, WebConf, WSDM, SDM, LoG, BigData
 - 2022: KDD, IJCAI, AAAI, CIKM, WSDM, SDM, IAAI
@@ -22,8 +22,9 @@ author_profile: true
 
 **Journal Reviewer**
 
+- Nature
+- Transactions on Machine Learning Research
+- Data-centric Machine Learning Research
 - Transactions on Intelligent Systems and Technology
 - Data Mining and Knowledge Discovery
 - Transactions on Knowledge Discovery from Data
-- International Journal of Computer Vision
-- Data-centric Machine Learning Research
