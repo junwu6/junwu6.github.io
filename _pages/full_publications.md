@@ -21,7 +21,7 @@ author_profile: true
 1. Jun Wu, Hanghang Tong, Elizabeth Ainsworth, and Jingrui He. "Adaptive Knowledge Transfer on Evolving Domains." IEEE BigData 2022.
 1. Jun Wu, and Jingrui He. "Dynamic Transfer Learning with Progressive Meta-task Scheduler." Frontiers in Big Data 2022.
 1. Yao Zhou, Jun Wu, Haixun Wang, and Jingrui He. "Adversarial Robustness through Bias Variance Decomposition: A New Perspective for Federated Learning." CIKM 2022.
-1. Jun Wu, and Jingrui He. "Indirect invisible poisoning attacks on domain adaptation." KDD 2021.
+1. Jun Wu, and Jingrui He. "Indirect Invisible Poisoning Attacks on Domain Adaptation." KDD 2021.
 1. Yao Zhou, Jianpeng Xu, Jun Wu, Zeinab Taghavi, Evren Korpeoglu, Kannan Achan, and Jingrui He. "PURE: Positive-Unlabeled Recommendation with Generative Adversarial Network." KDD 2021.
 1. Shane Roach, Connie Ni, Alexei Kopylov, Tsai Ching Lu, Jiejun Xu, Si Zhang, Boxin Du, Dawei Zhou, Jun Wu, Lihui Liu, Yuchen Yan, Jingrui He, and Hanghang Tong. "CANON: Complex Analytics of Network of Networks for Modeling Adversarial Activities." IEEE BigData 2020.
 1. Jun Wu, and Jingrui He. "Scalable Manifold-Regularized Attributed Network Embedding via Maximum Mean Discrepancy." CIKM 2019.
