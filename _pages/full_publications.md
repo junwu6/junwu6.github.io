@@ -8,7 +8,6 @@ author_profile: true
 1. Katherine Tieu, Dongqi Fu, Jun Wu, and Jingrui He. "Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem." AISTATS 2025.
 1. Jun Wu, Jingrui He, and Hanghang Tong. "Distributional Network of Networks for Modeling Data Heterogeneity." KDD 2024.
 1. Wenxuan Bao, Jun Wu, and Jingrui He. "BOBA: Byzantine-Robust Federated Learning with Label Skewness." AISTATS 2024.
-1. Isaac Joy, Jun Wu, and Jingrui He. "GPT Attack for Adversarial Privacy Policies." BigCom 2024.
 1. Jun Wu, Elizabeth Ainsworth, Andrew Leakey, Haixun Wang, and Jingrui He. "Graph-Structured Gaussian Processes for Transferable Graph Learning." NeurIPS 2023.
 1. Jun Wu, and Jingrui He. "Trustworthy Transfer Learning: Transferability and Trustworthiness." KDD 2023.
 1. Jun Wu, Wenxuan Bao, Elizabeth Ainsworth, and Jingrui He. "Personalized Federated Learning with Parameter Propagation." KDD 2023.
@@ -24,7 +23,6 @@ author_profile: true
 1. Yao Zhou, Jun Wu, Haixun Wang, and Jingrui He. "Adversarial Robustness through Bias Variance Decomposition: A New Perspective for Federated Learning." CIKM 2022.
 1. Jun Wu, and Jingrui He. "Indirect invisible poisoning attacks on domain adaptation." KDD 2021.
 1. Yao Zhou, Jianpeng Xu, Jun Wu, Zeinab Taghavi, Evren Korpeoglu, Kannan Achan, and Jingrui He. "PURE: Positive-Unlabeled Recommendation with Generative Adversarial Network." KDD 2021.
-1. Jun Wu, Elizabeth A. Ainsworth, Sheng Wang, Kaiyu Guan, and Jingrui He. "Adaptive Transfer Learning for Plant Phenotyping." MLCAS 2021.
 1. Shane Roach, Connie Ni, Alexei Kopylov, Tsai Ching Lu, Jiejun Xu, Si Zhang, Boxin Du, Dawei Zhou, Jun Wu, Lihui Liu, Yuchen Yan, Jingrui He, and Hanghang Tong. "CANON: Complex Analytics of Network of Networks for Modeling Adversarial Activities." IEEE BigData 2020.
 1. Jun Wu, and Jingrui He. "Scalable Manifold-Regularized Attributed Network Embedding via Maximum Mean Discrepancy." CIKM 2019.
 1. Jun Wu, Jingrui He, and Jiejun Xu. "DEMO-Net: Degree-Specific Graph Neural Networks for Node and Graph Classification." KDD 2019.
