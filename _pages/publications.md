@@ -25,7 +25,7 @@ Jun Wu, Jingrui He
 1. **Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation**    
 Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, Fatemeh Vafaee
 
-## Selected Publications
+## Selected Publications [Full List](https://junwu6.github.io/full_publication/)
 
 ### Heterogeneous Machine Learning
 
