@@ -11,7 +11,7 @@ author_profile: true
 1. Jun Wu, Elizabeth Ainsworth, Andrew Leakey, Haixun Wang, and Jingrui He. "Graph-Structured Gaussian Processes for Transferable Graph Learning." NeurIPS 2023.
 1. Jun Wu, and Jingrui He. "Trustworthy Transfer Learning: Transferability and Trustworthiness." KDD 2023.
 1. Jun Wu, Wenxuan Bao, Elizabeth Ainsworth, and Jingrui He. "Personalized Federated Learning with Parameter Propagation." KDD 2023.
-1. Wenxuan Bao, Haohan Wang, Jun Wu, and Jingrui He. "Optimizing the collaboration structure in cross-silo federated learning." ICML 2023.
+1. Wenxuan Bao, Haohan Wang, Jun Wu, and Jingrui He. "Optimizing the Collaboration Structure in Cross-Silo Federated Learning." ICML 2023.
 1. Jun Wu, Jingrui He, and Elizabeth Ainsworth. "Non-IID Transfer Learning on Graphs." AAAI 2023.
 1. Sheng Wang, Kaiyu Guan, Chenhui Zhang, Chongya Jiang, Qu Zhou, Kaiyuan Li, and Ziqi Qin, Elizabeth A. Ainsworth, Jingrui He, Jun Wu, Dan Schaefer, Lowell E. Gentry, Andrew J. Margenot, and Leo Herzberger. "Airborne Hyperspectral Imaging of Cover Crops Through Radiative Transfer Process-Guided Machine Learning." Remote Sensing of Environment 2023.
 1. Jun Wu, and Jingrui He. "A Unified Framework for Adversarial Attacks on Multi-Source Domain Adaptation." TKDE 2023.
