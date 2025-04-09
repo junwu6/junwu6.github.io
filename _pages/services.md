@@ -5,14 +5,14 @@ permalink: /services/
 author_profile: true
 ---
 
-**Senior Program Committee Members**
+**Senior Program Committee/Area Chair Members**
 
-- 2025: AAAI
+- 2025: AAAI, NeurIPS
 - 2024: AAAI
 
 **Program Committee Members**
 
-- 2025: NeurIPS, ICML, ICLR, KDD, IJCAI, AISTATS, CIKM, WebConf, WSDM
+- 2025: ICML, ICLR, KDD, IJCAI, AISTATS, CIKM, WebConf, WSDM
 - 2024: NeurIPS, ICML, ICLR, KDD, IJCAI, CIKM, WebConf, WSDM, SDM, BigData, PAKDD, DSAA
 - 2023: NeurIPS, ICML, KDD, IJCAI, AAAI, CIKM, WebConf, WSDM, SDM, LoG, BigData
 - 2022: KDD, IJCAI, AAAI, CIKM, WSDM, SDM, IAAI
