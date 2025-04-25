@@ -5,9 +5,16 @@ permalink: /recruitment/
 author_profile: true
 ---
 
-Thanks for your interest. I have one PhD position opening in Spring 2026. If you are interested in joining my team, please apply to the MSU CSE [graduate program](https://at3.cse.msu.edu/Students/Future_Grad/HowToApply.php) and mention my name in your application statement. Students with CS, math, and EE backgrounds are particularly encouraged to apply!
+Thanks for your interest. I will have one PhD position available starting in Spring 2026. If you are interested in joining my team, please apply to the MSU CSE [graduate program](https://at3.cse.msu.edu/Students/Future_Grad/HowToApply.php) and mention my name in your application statement. Students with CS, math, and EE backgrounds are particularly encouraged to apply!
 
 Here are several optional research projects in my team.
+
+* Hypothesis Transfer Learning. This framework focuses on optimizing the learning function on the target task using source hypotheses. Our research aims to bridge the gap between theoretical understanding and practical algorithms in understanding the transferability of pre-trained neural networks, such as large language models and vision-language models.
+
+* Graphon theory. It models graph data in the limit as the number of nodes approaches infinity, and can also serve as a generative model for graph sequences. Our research aims to understand the convergence, stability, and generalization performance of modern graph learning methods, such as graph neural networks and graph transformers.
+  
+* Uncertainty Quantification under Distribution Shifts. Our research aims to develop conformal prediction or Bayesian learning frameworks to rigorously quantify the prediction uncertainty of domain adaptation techniques under distribution shifts.
+
 
 <!--
 * Out-of-distribution generalization. The goal is to learn a domain-agnostic prediction function from training domains such that the learned function performs well on new unseen domains. There are two key research challenges: learning a good foundation model from training domains and identifying the generalization bounds.
