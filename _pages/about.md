@@ -20,7 +20,7 @@ I am particularly interested in exploring data heterogeneity and ensuring model 
 
 *News*
 
-* [04/2025] Honored to receive Google Cloud Research Credits to support our research on transfer learning
+* [04/2025] Honored to receive Google Cloud Research Credits
 * [01/2025] One paper has been accepted by AISTATS'25
 * [12/2024] Honored to be selected as one of the AAAI-25 New Faculty Highlights
 * [11/2024] Invited to serve as a Program Committee member for ICML'25 and IJCAI'25
