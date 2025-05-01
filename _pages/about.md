@@ -20,6 +20,7 @@ I am particularly interested in exploring data heterogeneity and ensuring model 
 
 *News*
 
+* [05/2025] One paper has been accepted by ICML'25
 * [04/2025] Honored to receive Google Cloud Research Credits
 * [01/2025] One paper has been accepted by AISTATS'25
 * [12/2024] Honored to be selected as one of the AAAI-25 New Faculty Highlights
