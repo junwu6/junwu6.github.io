@@ -29,6 +29,10 @@ Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, Fatemeh Vafaee
 
 ### Heterogeneous Machine Learning
 
+1. **LensLLM: Unveiling Fine-Tuning Dynamics for LLM Selection**  
+Xinyue Zeng, Haohui Wang, Junhong Lin, Jun Wu, Tyler Cody, Dawei Zhou  
+Forty-second International Conference on Machine Learning (ICML-2025)
+
 1. **Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem**  
 Katherine Tieu, Dongqi Fu, Jun Wu, Jingrui He  
 28th International Conference on Artificial Intelligence and Statistics (AISTATS-2025)
