@@ -45,10 +45,6 @@ Jun Wu, Jingrui He, Hanghang Tong
 Jun Wu, Elizabeth Ainsworth, Andrew Leakey, Haixun Wang, Jingrui He  
 Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS-2023)  
 
-1. **Non-IID Transfer Learning on Graphs** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26231)]  
-Jun Wu, Jingrui He, Elizabeth Ainsworth  
-Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-2023)  
-
 1. **Distribution-Informed Neural Networks for Domain Adaptation Regression** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/410bbba8388369d8bb5875544d1d4428-Paper-Conference.pdf)]  
 Jun Wu, Jingrui He, Sheng Wang, Kaiyu Guan, Elizabeth Ainsworth  
 36th Conference on Neural Information Processing Systems (NeurIPS-2022)  
