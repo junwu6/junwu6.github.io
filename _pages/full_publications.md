@@ -5,9 +5,11 @@ permalink: /full_publications/
 author_profile: true
 ---
 
+1. Xinyue Zeng, Haohui Wang, Junhong Lin, Jun Wu, Tyler Cody, and Dawei Zhou. "LensLLM: Unveiling Fine-Tuning Dynamics for LLM Selection." ICML 2025.
 1. Katherine Tieu, Dongqi Fu, Jun Wu, and Jingrui He. "Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem." AISTATS 2025.
 1. Jun Wu, Jingrui He, and Hanghang Tong. "Distributional Network of Networks for Modeling Data Heterogeneity." KDD 2024.
 1. Wenxuan Bao, Jun Wu, and Jingrui He. "BOBA: Byzantine-Robust Federated Learning with Label Skewness." AISTATS 2024.
+1. Isaac Joy, Jun Wu, and Jingrui He. "GPT Attack for Adversarial Privacy Policies." BigCom 2024.
 1. Jun Wu, Elizabeth Ainsworth, Andrew Leakey, Haixun Wang, and Jingrui He. "Graph-Structured Gaussian Processes for Transferable Graph Learning." NeurIPS 2023.
 1. Jun Wu, and Jingrui He. "Trustworthy Transfer Learning: Transferability and Trustworthiness." KDD 2023.
 1. Jun Wu, Wenxuan Bao, Elizabeth Ainsworth, and Jingrui He. "Personalized Federated Learning with Parameter Propagation." KDD 2023.
