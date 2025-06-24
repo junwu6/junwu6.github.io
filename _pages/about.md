@@ -20,6 +20,7 @@ I am particularly interested in exploring data heterogeneity and ensuring model 
 
 *News*
 
+* [06/2025] One survey paper has been accepted by JAIR
 * [05/2025] One paper has been accepted by ICML'25
 * [04/2025] Honored to receive Google Cloud Research Credits
 * [01/2025] One paper has been accepted by AISTATS'25
