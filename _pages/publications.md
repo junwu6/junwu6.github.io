@@ -19,9 +19,6 @@ author_profile: true
 
 ## Preprints
 
-1. **Trustworthy Transfer Learning: A Survey**  
-Jun Wu, Jingrui He
-
 1. **Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation**    
 Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, Fatemeh Vafaee
 
@@ -56,6 +53,10 @@ Jun Wu, Jingrui He
 
 ### Trustworthy Machine Learning
 
+1. **Trustworthy Transfer Learning: A Survey**  [[Paper](https://arxiv.org/abs/2412.14116)]  
+Jun Wu, Jingrui He  
+Journal of Artificial Intelligence Research
+
 1. **BOBA: Byzantine-Robust Federated Learning with Label Skewness** [[Paper](https://proceedings.mlr.press/v238/bao24a.html)]  
 Wenxuan Bao, Jun Wu, Jingrui He  
 27th International Conference on Artificial Intelligence and Statistics (AISTATS-2024)
@@ -67,10 +68,6 @@ Jun Wu, Wenxuan Bao, Elizabeth Ainsworth, Jingrui He
 1. **Optimizing the Collaboration Structure in Cross-silo Federated Learning** [[Paper](https://proceedings.mlr.press/v202/bao23b.html)]  
 Wenxuan Bao, Haohan Wang, Jun Wu, Jingrui He  
 Fortieth International Conference on Machine Learning (ICML-2023)
-
-1. **Adversarial Robustness through Bias Variance Decomposition: A New Perspective for Federated Learning** [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557232)]  
-Yao Zhou\*, Jun Wu\*, Haixun Wang, Jingrui He  
-31st ACM International Conference on Information and Knowledge Management (CIKM-2022)  
 
 1. **Indirect Invisible Poisoning Attacks on Domain Adaptation** [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467214)]  
 Jun Wu, Jingrui He  
