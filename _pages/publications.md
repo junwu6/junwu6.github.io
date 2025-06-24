@@ -22,6 +22,9 @@ author_profile: true
 1. **Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation**    
 Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, Fatemeh Vafaee
 
+1. **Plan and Budget: Effective and Efficient Test-Time Scaling on Large Language Model Reasoning**  
+Junhong Lin, Xinyue Zeng, Jie Zhu, Song Wang, Julian Shun, Jun Wu, Dawei Zhou
+
 ## Selected Publications ([Full List](https://junwu6.github.io/full_publications/))
 
 ### Heterogeneous Machine Learning
