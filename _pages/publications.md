@@ -55,7 +55,7 @@ Jun Wu, Jingrui He
 
 1. **Trustworthy Transfer Learning: A Survey**  [[Paper](https://arxiv.org/abs/2412.14116)]  
 Jun Wu, Jingrui He  
-Journal of Artificial Intelligence Research
+Journal of Artificial Intelligence Research (JAIR-2025)
 
 1. **BOBA: Byzantine-Robust Federated Learning with Label Skewness** [[Paper](https://proceedings.mlr.press/v238/bao24a.html)]  
 Wenxuan Bao, Jun Wu, Jingrui He  
