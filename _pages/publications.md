@@ -30,10 +30,6 @@ Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, Fatemeh Vafaee
 Xinyue Zeng, Haohui Wang, Junhong Lin, Jun Wu, Tyler Cody, Dawei Zhou  
 Forty-second International Conference on Machine Learning (ICML-2025)
 
-1. **Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem** [[Paper](https://arxiv.org/abs/2505.24178)]  
-Katherine Tieu, Dongqi Fu, Jun Wu, Jingrui He  
-28th International Conference on Artificial Intelligence and Statistics (AISTATS-2025)
-
 1. **Distributional Network of Networks for Modeling Data Heterogeneity**  [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671994)]  
 Jun Wu, Jingrui He, Hanghang Tong  
 30th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD-2024)  
