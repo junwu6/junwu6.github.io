@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+**Invited Talks**
+- Trustworthy Transfer Learning. KDD 2025 (SIGKDD Dissertation Award Honorable Mention)
+- Towards Trustworthy Machine Learning Under Distribution Shifts. AAAI 2025 (New Faculty Highlights)
+
 **Guest Lectures**
 
 - Non-IID Transfer Learning on Graphs. CS 6804 at Virginia Tech, Spring 2023 (Hosted by Prof. Dawei Zhou)
