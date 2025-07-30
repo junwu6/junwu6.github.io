@@ -21,7 +21,7 @@ I am interested in exploring data heterogeneity and enforcing model trustworthin
 
 *News*
 
-* [07/2025] One paper has been accepted by PRAI'24
+* [07/2025] One paper has been accepted by PRAI'25
 * [07/2025] Honored to recieve KDD'25 Dissertation Award Honorable Mention
 * [06/2025] One survey paper has been accepted by JAIR
 * [05/2025] One paper has been accepted by ICML'25
