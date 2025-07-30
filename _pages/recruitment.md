@@ -5,7 +5,7 @@ permalink: /recruitment/
 author_profile: true
 ---
 
-Thanks for your interest. I will have one PhD position available starting in Spring 2026. If you are interested in joining my team, please apply to the MSU CSE [graduate program](https://at3.cse.msu.edu/Students/Future_Grad/HowToApply.php) and mention my name in your application statement. Students with CS, math, and EE backgrounds are particularly encouraged to apply!
+Thanks for your interest. If you are interested in joining my team, please apply to the MSU CSE [graduate program](https://at3.cse.msu.edu/Students/Future_Grad/HowToApply.php) and mention my name in your application statement. Students with CS, math, and EE backgrounds are particularly encouraged to apply!
 
 Here are several optional research projects in my team.
 
