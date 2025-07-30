@@ -17,3 +17,16 @@ I am interested in exploring data heterogeneity and enforcing model trustworthin
 * Heterogeneous machine learning, e.g., transfer learning/domain adaptation, out-of-distribution generalization, etc.
 * Trustworthy machine learning, e.g., adversarial robustness, uncetainty quantification, etc.
 * Graph machine learning, e.g., graphon theory, etc.
+
+
+*News*
+
+* [07/2025] One paper has been accepted by PRAI'24
+* [07/2025] Honored to recieve KDD'25 Dissertation Award Honorable Mention
+* [06/2025] One survey paper has been accepted by JAIR
+* [05/2025] One paper has been accepted by ICML'25
+* [04/2025] Honored to receive Google Cloud Research Credits
+* [01/2025] One paper has been accepted by AISTATS'25
+* [12/2024] Honored to be selected as one of the AAAI-25 New Faculty Highlights
+* [11/2024] Invited to serve as a Program Committee member for ICML'25 and IJCAI'25
+* [11/2024] Invited to serve as a Program Committee member for AISTATS'25
