@@ -15,14 +15,14 @@ Dr. Jun Wu is an Assistant Professor in the [Department of Computer Science and 
 
 I am interested in exploring data heterogeneity and enforcing model trustworthiness in machine learning, artificial intelligence, and data mining. Currently, my research includes the following topics:
 * Heterogeneous machine learning, e.g., transfer learning/domain adaptation, out-of-distribution generalization, etc.
-* Trustworthy machine learning, e.g., adversarial robustness, uncetainty quantification, etc.
+* Trustworthy machine learning, e.g., adversarial robustness, uncertainty quantification, etc.
 * Graph machine learning, e.g., graphon theory, etc.
 
 
 *News*
 
 * [07/2025] One paper has been accepted by PRAI'25
-* [07/2025] Honored to recieve KDD'25 Dissertation Award Honorable Mention
+* [07/2025] Honored to receive KDD'25 Dissertation Award Honorable Mention
 * [06/2025] One survey paper has been accepted by JAIR
 * [05/2025] One paper has been accepted by ICML'25
 * [04/2025] Honored to receive Google Cloud Research Credits
