@@ -31,13 +31,15 @@ In-depth understanding of machine learning and pattern recognition techniques wi
 
 Final grades will be assigned based on absolute percentage as follows:
 
-[100, 90]       |           4.0  
-(90, 85]        |       3.5  
-(85, 80]       |     3.0       
-(80, 75]       |       2.5  
-(75, 70]   | 2.0   
-(70, 60]     | 1.0  
-(60, 0]         | 0.0             
+| Absolute Percentage | Grade |
+|---------------------|-------|
+| [100, 90]           | 4.0   |
+| (90, 85]            | 3.5   |
+| (85, 80]            | 3.0   |
+| (80, 75]            | 2.5   |
+| (75, 70]            | 2.0   |
+| (70, 60]            | 1.0   |
+| (60, 0]             | 0.0   |          
 
 Table 1: Final grades where [ ] denotes inclusion and ( ) denotes exclusion. The instructor reserves the right to move the thresholds down (but not up) based on the distribution of final percentages.
 
