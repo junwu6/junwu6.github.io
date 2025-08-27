@@ -30,4 +30,13 @@ In-depth understanding of machine learning and pattern recognition techniques wi
 - **Class participation:** 5%. Students are required to attend lectures and actively participate in class/online discussions. In-class quizzes will be used to track attendance.
 
 Final grades will be assigned based on absolute percentage as follows:
+| Absolute Percentage | Grade |
+| --------------- | --------------- |
+| [100, 90]       |           4.0   |
+| (90, 85]        |       3.5       |
+|  (85, 80]       |     3.0         | 
+|  (80, 75]       |       2.5       | 
+|      (75, 70]   | 2.0             |
+|    (70, 60]     | 1.0             |
+(60, 0] 0.0
 
