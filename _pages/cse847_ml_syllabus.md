@@ -38,5 +38,19 @@ Final grades will be assigned based on absolute percentage as follows:
 |  (80, 75]       |       2.5       | 
 |      (75, 70]   | 2.0             |
 |    (70, 60]     | 1.0             |
-(60, 0] 0.0
+| (60, 0]         | 0.0             |
+Table 1: Final grades where [ ] denotes inclusion and ( ) denotes exclusion. The instructor reserves the right to move the thresholds down (but not up) based on the distribution of final percentages.
 
+
+## Class Project (35%)
+- **Project proposal (5%): due on 9/30/2025**  
+  It should include the following details:
+  - Project title
+  - Team members: please specify the role of each member
+  - Description of the problem you are trying to address
+  - Preliminary plan (milestones)
+  - Reference papers
+
+- **Project Intermediate Report (5%): due on 11/5/2025**  
+  It should include the following details:
+  - Project title: can be different from the proposal, but no change will be allowed for the final report
