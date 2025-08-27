@@ -39,6 +39,7 @@ Final grades will be assigned based on absolute percentage as follows:
 |      (75, 70]   | 2.0             |
 |    (70, 60]     | 1.0             |
 | (60, 0]         | 0.0             |
+
 Table 1: Final grades where [ ] denotes inclusion and ( ) denotes exclusion. The instructor reserves the right to move the thresholds down (but not up) based on the distribution of final percentages.
 
 
