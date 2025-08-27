@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: # ""
+title: CSE 847 Syllabus (Fall 2025)
 permalink: /cse847_ml_syllabus/
 author_profile: true
 ---
