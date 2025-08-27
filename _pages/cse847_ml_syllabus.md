@@ -11,3 +11,7 @@ author_profile: true
 - Time: Monday and Wednesday 12:40 PM - 2:00 PM
 - Location: Wells Hall A324 (In Person)
 - Office Hours: After each class. Additional discussions should be communicated in Piazza through public or private posts (https://piazza.com/msu/fall2025/cse847).
+- TA: There is no TA for this class
+- Prerequisite: CSE 840.  
+Basics of linear algebra, probability, algorithm design, and analysis, proficient programming in one of the following languages (Python, Matlab, or C++).  
+We will have a screen quiz in the first class, which can be used as a reference on whether you have sufficient prerequisites for this class. (Note: The grade of the screen quiz will NOT be included in your final grade.)
