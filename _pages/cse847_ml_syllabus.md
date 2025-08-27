@@ -16,5 +16,18 @@ author_profile: true
 Basics of linear algebra, probability, algorithm design, and analysis, proficient programming in one of the following languages (Python, Matlab, or C++).  
 We will have a screen quiz in the first class, which can be used as a reference on whether you have sufficient prerequisites for this class. (Note: The grade of the screen quiz will NOT be included in your final grade.)
 - **Course Textbook:** The class has no main textbook. However, you may use materials from the following books as a reference. Lecture slides and additional reading materials will be provided on D2L.
-- - Pattern Recognition and Machine Learning, Christopher M. Bishop, 2006.
+  - Pattern Recognition and Machine Learning, Christopher M. Bishop, 2006.
   - The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2nd Edition). Trevor Hastie, Robert Tibshirani, and Jerome Friedman. Springer-Verlag, 2009.
+
+
+## Objective
+In-depth understanding of machine learning and pattern recognition techniques with their applications.
+
+## Grading
+- **Project (1):** 35%. 1 ∼ 3 students form a group to carry out a research project. Each team will give a short presentation at the end of the semester.
+- **Homework (3):** 30%. There are 3 homework assignments in total, with equal weights. Homework assignments include both theoretical derivation and hands-on experiments with various learning algorithms. Each student should finish independently.
+- **Exams (2):** 30%. There will be 2 in-person exams (1 midterm and 1 final exam), with equal weights. The final exam is scheduled on ***Tuesday, 12/09/2025 from 12:45 PM - 2:45 PM in Wells Hall A324***.
+- **Class participation:** 5%. Students are required to attend lectures and actively participate in class/online discussions. In-class quizzes will be used to track attendance.
+
+Final grades will be assigned based on absolute percentage as follows:
+
