@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Welcome to Jun's Homepage"
 title_separator          : "-"
-name                     : &name "Jun Wu ([CV](https://drive.google.com/file/d/1CeCeigXUPnK-UyNeSW7RMQT-EodYck6E/view?usp=sharing))"
+name                     : &name "Jun Wu"
 description              : &description "personal description"
 url                      : https://junwu6.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Jun_Wu-2048x1984.jpg"
-  name             : "Jun Wu"
+  name             : "Jun Wu ([CV](https://drive.google.com/file/d/1CeCeigXUPnK-UyNeSW7RMQT-EodYck6E/view?usp=sharing))"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
   location         : "EB 2507H"
