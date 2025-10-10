@@ -5,9 +5,9 @@ permalink: /full_publications/
 author_profile: true
 ---
 
-1. Emma Tong, Sophia Chen, and Jun Wu. "NoNitro: A UAV- and AI-Empowered Integrated System for Soil Nitrate Control." PRAI 2025.
-1. Jun Wu, and Jingrui He. "Trustworthy Transfer Learning: A Survey." JAIR 2025.
-1. Xinyue Zeng, Haohui Wang, Junhong Lin, Jun Wu, Tyler Cody, and Dawei Zhou. "LensLLM: Unveiling Fine-Tuning Dynamics for LLM Selection." ICML 2025.
+1. Emma Tong, Sophia Chen, and Jun Wu. NoNitro: A UAV- and AI-Empowered Integrated System for Soil Nitrate Control. PRAI 2025.
+1. Jun Wu, and Jingrui He. [Trustworthy Transfer Learning: A Survey](https://arxiv.org/abs/2412.14116). JAIR 2025.
+1. Xinyue Zeng, Haohui Wang, Junhong Lin, Jun Wu, Tyler Cody, and Dawei Zhou. [LensLLM: Unveiling Fine-Tuning Dynamics for LLM Selection](https://proceedings.mlr.press/v267/zeng25g.html). ICML 2025.
 1. Katherine Tieu, Dongqi Fu, Jun Wu, and Jingrui He. "Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem." AISTATS 2025.
 1. Jun Wu, Jingrui He, and Hanghang Tong. "Distributional Network of Networks for Modeling Data Heterogeneity." KDD 2024.
 1. Wenxuan Bao, Jun Wu, and Jingrui He. "BOBA: Byzantine-Robust Federated Learning with Label Skewness." AISTATS 2024.
