@@ -5,8 +5,9 @@ permalink: /full_publications/
 author_profile: true
 ---
 
+1. Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, and Fatemeh Vafaee. [Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation](https://www.biorxiv.org/content/10.1101/2024.10.04.616599v1). Genomics, Proteomics & Bioinformatics (accepted).
+1. Jun Wu, and Jingrui He. [Trustworthy Transfer Learning: A Survey](https://arxiv.org/abs/2412.14116). Journal of Artificial Intelligence Research (accepted).
 1. Emma Tong, Sophia Chen, and Jun Wu. NoNitro: A UAV- and AI-Empowered Integrated System for Soil Nitrate Control. PRAI 2025.
-1. Jun Wu, and Jingrui He. [Trustworthy Transfer Learning: A Survey](https://arxiv.org/abs/2412.14116). JAIR 2025.
 1. Xinyue Zeng, Haohui Wang, Junhong Lin, Jun Wu, Tyler Cody, and Dawei Zhou. [LensLLM: Unveiling Fine-Tuning Dynamics for LLM Selection](https://proceedings.mlr.press/v267/zeng25g.html). ICML 2025.
 1. Katherine Tieu, Dongqi Fu, Jun Wu, and Jingrui He. [Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem](https://proceedings.mlr.press/v258/tieu25a.html). AISTATS 2025.
 1. Jun Wu, Jingrui He, and Hanghang Tong. [Distributional Network of Networks for Modeling Data Heterogeneity](https://dl.acm.org/doi/abs/10.1145/3637528.3671994). KDD 2024.
@@ -22,7 +23,7 @@ author_profile: true
 1. Jun Wu, and Jingrui He. [A Unified Meta-Learning Framework for Dynamic Transfer Learning](https://www.ijcai.org/proceedings/2022/496). IJCAI 2022.
 1. Jun Wu, Hanghang Tong, Elizabeth Ainsworth, and Jingrui He. [Adaptive Knowledge Transfer on Evolving Domains](https://ieeexplore.ieee.org/document/10020944). IEEE BigData 2022.
 1. Jun Wu, and Jingrui He. [Dynamic Transfer Learning with Progressive Meta-task Scheduler](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2022.1052972/full). Frontiers in Big Data 2022.
-1. Yao Zhou, Jun Wu, Haixun Wang, and Jingrui He. [Adversarial Robustness through Bias Variance Decomposition: A New Perspective for Federated Learning](https://dl.acm.org/doi/10.1145/3511808.3557232). CIKM 2022.
+1. Yao Zhou\*, Jun Wu\*, Haixun Wang, and Jingrui He. [Adversarial Robustness through Bias Variance Decomposition: A New Perspective for Federated Learning](https://dl.acm.org/doi/10.1145/3511808.3557232). CIKM 2022.
 1. Jun Wu, and Jingrui He. [Indirect Invisible Poisoning Attacks on Domain Adaptation](https://dl.acm.org/doi/10.1145/3447548.3467214). KDD 2021.
 1. Yao Zhou, Jianpeng Xu, Jun Wu, Zeinab Taghavi, Evren Korpeoglu, Kannan Achan, and Jingrui He. [PURE: Positive-Unlabeled Recommendation with Generative Adversarial Network](https://dl.acm.org/doi/10.1145/3447548.3467234). KDD 2021.
 1. Jun Wu, and Jingrui He. [Scalable Manifold-Regularized Attributed Network Embedding via Maximum Mean Discrepancy](https://dl.acm.org/doi/10.1145/3357384.3358091). CIKM 2019.
