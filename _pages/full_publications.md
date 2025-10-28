@@ -13,7 +13,7 @@ author_profile: true
 1. Jun Wu, Jingrui He, and Hanghang Tong. [Distributional Network of Networks for Modeling Data Heterogeneity](https://dl.acm.org/doi/abs/10.1145/3637528.3671994). KDD 2024.
 1. Wenxuan Bao, Jun Wu, and Jingrui He. [BOBA: Byzantine-Robust Federated Learning with Label Skewness](https://proceedings.mlr.press/v238/bao24a.html). AISTATS 2024.
 1. Jun Wu, Elizabeth Ainsworth, Andrew Leakey, Haixun Wang, and Jingrui He. [Graph-Structured Gaussian Processes for Transferable Graph Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9f7f2f57d8eaf44b2f09020f64ff6d96-Abstract-Conference.html). NeurIPS 2023.
-1. Jun Wu, and Jingrui He. [Trustworthy Transfer Learning: Transferability and Trustworthiness](https://dl.acm.org/doi/10.1145/3580305.3599576). KDD 2023.
+1. Jun Wu, and Jingrui He. [Trustworthy Transfer Learning: Transferability and Trustworthiness](https://dl.acm.org/doi/10.1145/3580305.3599576). KDD Tutorial 2023.
 1. Jun Wu, Wenxuan Bao, Elizabeth Ainsworth, and Jingrui He. [Personalized Federated Learning with Parameter Propagation](https://dl.acm.org/doi/10.1145/3580305.3599464). KDD 2023.
 1. Wenxuan Bao, Haohan Wang, Jun Wu, and Jingrui He. [Optimizing the Collaboration Structure in Cross-Silo Federated Learning](https://proceedings.mlr.press/v202/bao23b.html). ICML 2023.
 1. Jun Wu, Jingrui He, and Elizabeth Ainsworth. [Non-IID Transfer Learning on Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/26231). AAAI 2023.
