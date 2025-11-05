@@ -5,6 +5,7 @@ permalink: /full_publications/
 author_profile: true
 ---
 
+1. Jun Wu. Distribution Shifts in Trustworthy Machine Learning. AI Magazine (accepted).
 1. Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, and Fatemeh Vafaee. [Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation](https://www.biorxiv.org/content/10.1101/2024.10.04.616599v1). Genomics, Proteomics & Bioinformatics (accepted).
 1. Jun Wu, and Jingrui He. [Trustworthy Transfer Learning: A Survey](https://arxiv.org/abs/2412.14116). Journal of Artificial Intelligence Research (accepted).
 1. Emma Tong, Sophia Chen, and Jun Wu. NoNitro: A UAV- and AI-Empowered Integrated System for Soil Nitrate Control. PRAI 2025.
