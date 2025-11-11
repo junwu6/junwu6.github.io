@@ -49,7 +49,7 @@ Jun Wu, Jingrui He
 
 ### Trustworthy Machine Learning
 
-1. **Trustworthy Transfer Learning: A Survey**  [[Paper](https://arxiv.org/abs/2412.14116)]  
+1. **Trustworthy Transfer Learning: A Survey**  [[Paper](https://jair.org/index.php/jair/article/view/17602)]  
 Jun Wu, Jingrui He  
 Journal of Artificial Intelligence Research (JAIR)
 
