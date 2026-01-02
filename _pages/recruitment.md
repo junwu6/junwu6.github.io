@@ -9,7 +9,7 @@ Thanks for your interest. If you are interested in joining my team, please apply
 
 Here are several optional research projects in my team.
 
-* **Graph Limit theory**. It models graph data in the limit as the number of nodes approaches infinity, and can also serve as a generative model for graph sequences. Our research aims to understand the convergence, stability, and generalization performance of modern graph learning methods.
+* **Graph Limit Theory**. It models dense/sparse graph data in the limit as the number of nodes approaches infinity, and can also serve as a generative model for graph sequences. Our research aims to understand the convergence, stability, and generalization performance of modern graph learning methods.
 
 * **Flow Matching**. Flow matching is a flexible and scalable framework for learning probabilistic maps between distributions. We investigate its theoretical foundations for handling distribution shifts between training and testing environments.
 
