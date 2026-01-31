@@ -30,3 +30,5 @@ author_profile: true
 1. Jun Wu, and Jingrui He. [Scalable Manifold-Regularized Attributed Network Embedding via Maximum Mean Discrepancy](https://dl.acm.org/doi/10.1145/3357384.3358091). CIKM 2019.
 1. Jun Wu, Jingrui He, and Jiejun Xu. [DEMO-Net: Degree-Specific Graph Neural Networks for Node and Graph Classification](https://dl.acm.org/doi/10.1145/3292500.3330950). KDD 2019.
 1. Jun Wu, Jingrui He, and Yongming Liu. [Imverde: Vertex-Diminished Random Walk for Learning Imbalanced Network Representation](https://ieeexplore.ieee.org/document/8622603). IEEE BigData 2018.
+
+(\*Equal Contribution)
