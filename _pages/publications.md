@@ -17,11 +17,6 @@ author_profile: true
 {% endfor %}
 -->   
 
-## Preprints
-
-1. **Plan and Budget: Effective and Efficient Test-Time Scaling on Large Language Model Reasoning**  
-Junhong Lin, Xinyue Zeng, Jie Zhu, Song Wang, Julian Shun, Jun Wu, Dawei Zhou
-
 ## Selected Publications ([Full List](https://junwu6.github.io/full_publications/))
 
 ### Heterogeneous Machine Learning
