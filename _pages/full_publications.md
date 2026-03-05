@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 1. Jun Wu. Distribution Shifts in Trustworthy Machine Learning. AI Magazine (accepted).
+1. Junhong Lin, Xinyue Zeng, Jie Zhu, Song Wang, Julian Shun, Jun Wu, Dawei Zhou. [Plan and Budget: Effective and Efficient Test-Time Scaling on Reasoning Large Language Models](https://openreview.net/pdf?id=ctspw4CqbS). ICLR 2026.
+1. Xinyue Zeng, Junhong Lin, Yujun Yan, Feng Guo, Liang Shi, Jun Wu, Dawei Zhou. [HalluGuard: Demystifying Data-Driven and Reasoning-Driven Hallucinations in LLMs](https://openreview.net/pdf?id=ZURs3YZclt). ICLR 2026.
 1. Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, and Fatemeh Vafaee. [Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation](https://doi.org/10.1093/gpbjnl/qzag008). Genomics, Proteomics & Bioinformatics, 2026.
 1. Jun Wu, and Jingrui He. [Trustworthy Transfer Learning: A Survey](https://jair.org/index.php/jair/article/view/17602). Journal of Artificial Intelligence Research, 2025.
 1. Emma Tong, Sophia Chen, and Jun Wu. NoNitro: A UAV- and AI-Empowered Integrated System for Soil Nitrate Control. PRAI 2025.
