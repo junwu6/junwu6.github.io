@@ -10,7 +10,7 @@ author_profile: true
 1. Xinyue Zeng, Junhong Lin, Yujun Yan, Feng Guo, Liang Shi, Jun Wu, Dawei Zhou. [HalluGuard: Demystifying Data-Driven and Reasoning-Driven Hallucinations in LLMs](https://openreview.net/pdf?id=ZURs3YZclt). ICLR 2026.
 1. Fatemeh Aminzadeh\*, Jun Wu\*, Jingrui He, Morteza Saberi, and Fatemeh Vafaee. [Single-Cell Data Integration and Cell Type Annotation through Contrastive Adversarial Open-set Domain Adaptation](https://doi.org/10.1093/gpbjnl/qzag008). Genomics, Proteomics & Bioinformatics, 2026.
 1. Jun Wu, and Jingrui He. [Trustworthy Transfer Learning: A Survey](https://jair.org/index.php/jair/article/view/17602). Journal of Artificial Intelligence Research, 2025.
-1. Emma Tong, Sophia Chen, and Jun Wu. NoNitro: A UAV- and AI-Empowered Integrated System for Soil Nitrate Control. PRAI 2025.
+1. Emma Tong, Sophia Chen, and Jun Wu. [NoNitro: A UAV- and AI-Empowered Integrated System for Soil Nitrate Control](https://ieeexplore.ieee.org/abstract/document/11412470?casa_token=2vs5zC7W4hQAAAAA:aBuXE1ZqEgIx0AAvrtF-tzr3DVk-MWeOu3szB2pBLN_OQ_ZQbjb3EnExq1eQ_KwAPRyVZUodF1g). PRAI 2025.
 1. Xinyue Zeng, Haohui Wang, Junhong Lin, Jun Wu, Tyler Cody, and Dawei Zhou. [LensLLM: Unveiling Fine-Tuning Dynamics for LLM Selection](https://proceedings.mlr.press/v267/zeng25g.html). ICML 2025.
 1. Katherine Tieu, Dongqi Fu, Jun Wu, and Jingrui He. [Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem](https://proceedings.mlr.press/v258/tieu25a.html). AISTATS 2025.
 1. Jun Wu, Jingrui He, and Hanghang Tong. [Distributional Network of Networks for Modeling Data Heterogeneity](https://dl.acm.org/doi/abs/10.1145/3637528.3671994). KDD 2024.
