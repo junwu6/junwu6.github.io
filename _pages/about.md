@@ -24,10 +24,10 @@ I am interested in exploring data heterogeneity and enforcing model trustworthin
 * [04/2026] One paper has been accepted by ICML 2026! Congratulations to Xinyu Liu as the leading author.
 * [04/2026] Honored to receive Amazon research award to support our project "Investigating the Safety Landscape of LLM Scaling"
 * [12/2025] Honored to receive support from NAIRR Pilot Program for our research in modeling networked time-series
-* [07/2025] One paper has been accepted by PRAI'25
+* [07/2025] One paper has been accepted by PRAI 2025
 * [07/2025] Honored to receive KDD'25 Dissertation Award Honorable Mention
 * [06/2025] One survey paper has been accepted by JAIR
-* [05/2025] One paper has been accepted by ICML'25
+* [05/2025] One paper has been accepted by ICML 2025
 * [04/2025] Honored to receive Google Cloud Research Credits
 * [01/2025] One paper has been accepted by AISTATS'25
 * [12/2024] Honored to be selected as one of the AAAI-25 New Faculty Highlights
