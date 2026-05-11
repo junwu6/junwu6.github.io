@@ -44,6 +44,10 @@ Jun Wu, Jingrui He
 
 ### Trustworthy Machine Learning
 
+1. **Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality**  
+Xinyu Liu, Jun Wu  
+Forty-third International Conference on Machine Learning (ICML-2026)
+
 1. **Trustworthy Transfer Learning: A Survey**  [[Paper](https://jair.org/index.php/jair/article/view/17602)]  
 Jun Wu, Jingrui He  
 Journal of Artificial Intelligence Research (JAIR-2025)
@@ -51,10 +55,6 @@ Journal of Artificial Intelligence Research (JAIR-2025)
 1. **BOBA: Byzantine-Robust Federated Learning with Label Skewness** [[Paper](https://proceedings.mlr.press/v238/bao24a.html)]  
 Wenxuan Bao, Jun Wu, Jingrui He  
 27th International Conference on Artificial Intelligence and Statistics (AISTATS-2024)
-
-1. **Personalized Federated Learning with Parameter Propagation** [[Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599464)]  
-Jun Wu, Wenxuan Bao, Elizabeth Ainsworth, Jingrui He  
-29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2023)
 
 1. **Optimizing the Collaboration Structure in Cross-silo Federated Learning** [[Paper](https://proceedings.mlr.press/v202/bao23b.html)]  
 Wenxuan Bao, Haohan Wang, Jun Wu, Jingrui He  
