@@ -21,9 +21,9 @@ author_profile: true
 
 ### Heterogeneous Machine Learning
 
-1. **LensLLM: Unveiling Fine-Tuning Dynamics for LLM Selection**  [[Paper](https://arxiv.org/abs/2505.03793)]  
-Xinyue Zeng, Haohui Wang, Junhong Lin, Jun Wu, Tyler Cody, Dawei Zhou  
-Forty-second International Conference on Machine Learning (ICML-2025)
+1. **Distribution Shifts in Trustworthy Machine Learning**  [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.70057)]  
+Jun Wu  
+AI Magazine (2026)
 
 1. **Distributional Network of Networks for Modeling Data Heterogeneity**  [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671994)]  
 Jun Wu, Jingrui He, Hanghang Tong  
@@ -50,7 +50,7 @@ Forty-third International Conference on Machine Learning (ICML-2026)
 
 1. **Trustworthy Transfer Learning: A Survey**  [[Paper](https://jair.org/index.php/jair/article/view/17602)]  
 Jun Wu, Jingrui He  
-Journal of Artificial Intelligence Research (JAIR-2025)
+Journal of Artificial Intelligence Research (2025)
 
 1. **BOBA: Byzantine-Robust Federated Learning with Label Skewness** [[Paper](https://proceedings.mlr.press/v238/bao24a.html)]  
 Wenxuan Bao, Jun Wu, Jingrui He  
