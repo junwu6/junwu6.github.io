@@ -21,9 +21,10 @@ I am interested in exploring data heterogeneity and enforcing model trustworthin
 
 *News*
 
+* [06/2026] Invited to give a talk at the NAIRR Pilot Classroom Expansion Conference
 * [04/2026] One paper has been accepted by ICML 2026! Congratulations to Xinyu Liu as the leading author.
-* [04/2026] Honored to receive Amazon research award to support our project "Investigating the Safety Landscape of LLM Scaling"
-* [12/2025] Honored to receive support from NAIRR Pilot Program for our research in modeling networked time-series
+* [04/2026] Honored to receive an Amazon research award to support our project "Investigating the Safety Landscape of LLM Scaling"
+* [12/2025] Honored to receive support from the NAIRR Pilot Program for our research in modeling networked time-series
 * [07/2025] One paper has been accepted by PRAI 2025
 * [07/2025] Honored to receive KDD'25 Dissertation Award Honorable Mention
 * [06/2025] One survey paper has been accepted by JAIR
