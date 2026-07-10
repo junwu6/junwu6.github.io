@@ -21,7 +21,7 @@ author_profile: true
 
 ### Preprint
 
-1. **Tracking Artificial Intelligence Sentiment in the US Labor Market** [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6652799)]  
+1. **Tracking Artificial Intelligence Sentiment in the US Labor Market** [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6652799)][[Website](https://www.ai-sentiment.com/)]  
 Yuye Ding, Mark (Shuai) Ma, Jun Wu, Yucheng Yang
 
 ### Heterogeneous Machine Learning
