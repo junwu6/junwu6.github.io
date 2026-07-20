@@ -44,7 +44,7 @@ Jun Wu, Jingrui He
 
 ### Trustworthy Machine Learning
 
-1. **Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality**  
+1. **Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality** [[Paper](https://openreview.net/forum?id=3W2IAC4cNh)]  
 Xinyu Liu, Jun Wu  
 Forty-third International Conference on Machine Learning (ICML-2026)
 
