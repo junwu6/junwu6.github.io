@@ -5,6 +5,7 @@ permalink: /full_publications/
 author_profile: true
 ---
 
+1. Xinyu Liu, Dongqi Fu, and Jun Wu. Diagnostic Analysis for Large Language Model Reasoning. EMNLP 2026.
 1. Xinyu Liu and Jun Wu. [Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality](https://openreview.net/forum?id=3W2IAC4cNh). ICML 2026.
 1. Jun Wu. [Distribution Shifts in Trustworthy Machine Learning](https://onlinelibrary.wiley.com/doi/abs/10.1002/aaai.70057). AI Magazine, 2026.
 1. Junhong Lin, Xinyue Zeng, Jie Zhu, Song Wang, Julian Shun, Jun Wu, and Dawei Zhou. [Plan and Budget: Effective and Efficient Test-Time Scaling on Reasoning Large Language Models](https://openreview.net/pdf?id=ctspw4CqbS). ICLR 2026.
