@@ -22,7 +22,7 @@ I am interested in exploring data heterogeneity and enforcing model trustworthin
 *News*
 
 * [08/2026] Invited to serve as an Associate Editor for ACM Computing Surveys
-* [08/2026] Elected as a member of Sigma Xi, The Scientific Research Honor Society
+* [08/2026] Inducted as a member of Sigma Xi, The Scientific Research Honor Society
 * [08/2026] One paper has been accepted by EMNLP 2026! Congratulations to Xinyu Liu as the leading author
 * [08/2026] Gave a talk at the HDR Ecosystem Conference
 * [06/2026] Gave a talk at the NAIRR Pilot Classroom Expansion Conference
