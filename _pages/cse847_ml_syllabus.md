@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: CSE 847 Syllabus (Fall 2025)
+title: CSE 847 Syllabus (Fall 2026)
 permalink: /cse847_ml_syllabus/
 author_profile: true
 ---
 
 
 ## General Course Information
-- **Instructor:** Jun Wu (wujun4@msu.edu)
+- **Instructor:** Jun Wu (wujun4 at msu dot edu)
 - **Time:** Monday and Wednesday 12:40 PM - 2:00 PM
 - **Location:** Wells Hall A324 (In Person)
 - **Office Hours:** After each class. Additional discussions should be communicated in Piazza through public or private posts (https://piazza.com/msu/fall2026/cse847).
