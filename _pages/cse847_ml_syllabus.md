@@ -10,8 +10,8 @@ author_profile: true
 - **Instructor:** Jun Wu (wujun4@msu.edu)
 - **Time:** Monday and Wednesday 12:40 PM - 2:00 PM
 - **Location:** Wells Hall A324 (In Person)
-- **Office Hours:** After each class. Additional discussions should be communicated in Piazza through public or private posts (https://piazza.com/msu/fall2025/cse847).
-- **TA:** There is no TA for this class
+- **Office Hours:** After each class. Additional discussions should be communicated in Piazza through public or private posts (https://piazza.com/msu/fall2026/cse847).
+- **TA:** Max Max Reuter
 - **Prerequisite:** CSE 840  
 Basics of linear algebra, probability, algorithm design, and analysis, proficient programming in one of the following languages (Python, Matlab, or C++).  
 We will have a screen quiz in the first class, which can be used as a reference on whether you have sufficient prerequisites for this class. (Note: The grade of the screen quiz will NOT be included in your final grade.)
@@ -24,10 +24,10 @@ We will have a screen quiz in the first class, which can be used as a reference 
 In-depth understanding of machine learning and pattern recognition techniques with their applications.
 
 ## Grading
-- **Project (1):** 35%. 1 ∼ 3 students form a group to carry out a research project. Each team will give a short presentation at the end of the semester.
+- **Project (1):** 35%. 3 ∼ 5 students form a group to carry out a research project. Each team will give a short presentation at the end of the semester.
 - **Homework (3):** 30%. There are 3 homework assignments in total, with equal weights. Homework assignments include both theoretical derivation and hands-on experiments with various learning algorithms. Each student should finish independently.
-- **Exams (2):** 30%. There will be 2 in-person exams (1 midterm and 1 final exam), with equal weights. The final exam is scheduled on ***Tuesday, 12/09/2025 from 12:45 PM - 2:45 PM in Wells Hall A324***.
-- **Class participation:** 5%. Students are required to attend lectures and actively participate in class/online discussions. In-class quizzes will be used to track attendance.
+- **Exams (2):** 30%. There will be 2 in-person exams with equal weights.
+- **Class participation:** 5%. Students are required to attend lectures and actively participate in class/online discussions.
 
 Final grades will be assigned based on absolute percentage as follows:
 
@@ -45,7 +45,7 @@ Table 1: Final grades where [ ] denotes inclusion and ( ) denotes exclusion. The
 
 
 ## Class Project (35%)
-- **Project proposal (5%): due on 9/30/2025**  
+- **Project proposal (5%): due on 9/21/2026**  
   It should include the following details:
   - Project title
   - Team members: please specify the role of each member
@@ -53,7 +53,7 @@ Table 1: Final grades where [ ] denotes inclusion and ( ) denotes exclusion. The
   - Preliminary plan (milestones)
   - Reference papers
 
-- **Project Intermediate Report (5%): due on 11/5/2025**  
+- **Project Intermediate Report (5%): due on 10/28/2026**  
   It should include the following details:
   - Project title: can be different from the proposal, but no change will be allowed for the final report
   - Abstract: summarize the studied problem and research progress
@@ -62,14 +62,14 @@ Table 1: Final grades where [ ] denotes inclusion and ( ) denotes exclusion. The
   - Team members: please summarize the contributions of each team member
   - Reference papers
  
-- **Group presentation (5%) on 12/1/2025 and 12/3/2025**  
+- **Group presentation (5%) on 12/7/2026 and 12/9/2026**  
   Each group will present their project during the final classes (including 10 minutes for presentation and 2 minutes for Q&A).
 
-- **Final project report (20%) due on 12/5/2025**  
+- **Final project report (20%) due on 12/11/2026**  
 It should include the following details:
   - Project title
   - Abstract: A very brief summary of the studied problem, methods, and results
-  - Introduction: An introduction of the problem, related work, methods, and results
+  - Introduction: An introduction to the problem, related work, methods, and results
   - Problem description: A detailed description of the problem setting you try to address in the project
   - Methodology: A detailed description of the methods used in the project
   - Results: A detailed description of your observations from the experiments
