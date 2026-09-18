@@ -8,6 +8,12 @@ author_profile: true
 Welcome to the **Heterogeneous Machine Intelligence** (HINT) Lab! Our research focuses on advancing the frontiers of trustworthy machine learning and artificial intelligence in heterogeneous data environments.
 
 ### Ph.D. Students
-- Xinyu Liu (Fall 2025 - )
-- Max Reuter (Fall 2025 - )
+- Xinyu Liu (Fall 2025 -- )
+- Max Reuter (Fall 2025 -- )
+- Huifang Xiang (Fall 2026 --)
 
+### Undergraduate Students
+
+- Daniel Wang
+- Emmet Ewing
+- Zhe Fu
