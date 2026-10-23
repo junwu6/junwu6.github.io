@@ -19,6 +19,9 @@ author_profile: true
 
 ## Selected Publications ([Full List](https://junwu6.github.io/full_publications/))
 
+### Preprint
+1. **Tracking Artificial Intelligence Sentiment in the US Labor Market** [[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6652799)][[Website](https://www.ai-sentiment.com/)]
+
 ### Heterogeneous Machine Learning
 
 1. **Distribution Shifts in Trustworthy Machine Learning**  [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.70057)]  
