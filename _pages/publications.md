@@ -20,7 +20,7 @@ author_profile: true
 ## Selected Publications ([Full List](https://junwu6.github.io/full_publications/))
 
 ### Preprint
-1. **Tracking Artificial Intelligence Sentiment in the US Labor Market** [[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6652799)][[Website](https://www.ai-sentiment.com/)]. 
+1. **Tracking Artificial Intelligence Sentiment in the US Labor Market** [[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6652799)][[Website](https://www.ai-sentiment.com/)]  
 Yuye Ding, Mark (Shuai) Ma, Jun Wu, Yucheng Yang
 
 ### Heterogeneous Machine Learning
