@@ -5,7 +5,7 @@ permalink: /full_publications/
 author_profile: true
 ---
 
-1. Emma Tong and Jun Wu. Nitrogen or Not: XAI for Nitrogen Literature Filtering with Reduced Labeling Effort. ICDM 2026 Teen Research Symposium ($\textem{\color{red}Best Paper Runner-up Award}$).
+1. Emma Tong and Jun Wu. Nitrogen or Not: XAI for Nitrogen Literature Filtering with Reduced Labeling Effort. ICDM 2026 Teen Research Symposium ($\textbf{\color{red}Best Paper Runner-up Award}$).
 1. Xinyu Liu, Dongqi Fu, and Jun Wu. [Diagnostic Analysis for Large Language Model Reasoning](https://arxiv.org/abs/2610.27245). EMNLP 2026.
 1. Xinyu Liu and Jun Wu. [Beyond Reactivity: Proactive Adaptive Conformal Inference for Online LLM Factuality](https://openreview.net/forum?id=3W2IAC4cNh). ICML 2026.
 1. Jun Wu. [Distribution Shifts in Trustworthy Machine Learning](https://onlinelibrary.wiley.com/doi/abs/10.1002/aaai.70057). AI Magazine, 2026.
